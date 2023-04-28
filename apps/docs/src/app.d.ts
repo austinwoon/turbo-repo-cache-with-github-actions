@@ -11,4 +11,5 @@ declare namespace App {
   // SAMPLE CHANGE TO TRIGGER CACHE MISS
   // SAMPLE CHANGE TO TRIGGER CACHE MISS
   // 1
+  // 2
 }
